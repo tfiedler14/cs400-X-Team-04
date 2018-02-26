@@ -7,7 +7,7 @@
        * GitHub username 2: tfiedler14
        * GitHub username 3: mikespe23
        * GitHub username 4: cdedrickwisc
-       * GitHub username 5: **Insert Joyce's Username Here**
+       * GitHub username 5: _**Insert Joyce's Username Here**_
    * When did you complete this exercise? Monday 2/26/2018
    * How long did it take your team to complete this exercise?  
 
