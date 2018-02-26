@@ -47,8 +47,23 @@ Inline comments are fine. (Use //)
 * methods
   * Same as classes
 * coding style (brackets, horizontal, and vertical spacing) for:
-  * if statements: Don't care
-  * switch statement: Don't care
-  * while loops: Don't care
-  * for loops: Don't care
-  * enhanced for loops: Don't care
+  * if statements: Personal preference (Most in group prefer using horizontal space)
+  * eg: if(args) {
+  *  \*insert code here\*
+  * }
+  * switch statement: Personal preference (See if statements)
+  * eg: switch(arg) {
+  *  \*insert code here\*
+  * }
+  * while loops: Personal preference (See if statements)
+  * eg: while(args) {
+  *  \*insert code here\*
+  * }
+  * for loops: Personal preference (See if statements)
+  * eg: for(args) {
+  *  \*insert code here\*
+  * }
+  * enhanced for loops: Personal perference (See if statements)
+  * eg: for(int i : intArray) {
+  *  \*insert code here\*
+  * }
