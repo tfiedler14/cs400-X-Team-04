@@ -12,12 +12,12 @@ and missed deadlines.
 Weekly Scrum meetings to accept responsibilities. Use effective communication to reassign tasks when needed.
 
 
-## How will we will track progress (and follow-up) on completion of tasks
+## How will we track progress (and follow-up) on completion of tasks
 The use of a group chat to mention when tasks are completed and uploaded. Weekly Scrum meetings can be used to 
 ensure no one is unable to complete their tasks.
 
 
-## How will will communicate difficulties with a task assigned to us
+## How will communicate difficulties with a task assigned to us
 Asking for help during weekly Scrum meetings and not being afraid to speak up when in need. 
 
 
