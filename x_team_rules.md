@@ -18,7 +18,7 @@ ensure no one is unable to complete their tasks.
 
 
 ## How will will communicate difficulties with a task assigned to us
-Asking for help during weekly Scrum meetings and not being afraid to speak up when in need. 
+Asking for help during weekly Scrum meetings and not being afraid to speak up when in need. If needed, go for TA's office hour together.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
