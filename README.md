@@ -7,7 +7,7 @@
        * GitHub username 2: tfiedler14        Tom Fiedler
        * GitHub username 3: mikespe23         Mike Espe
        * GitHub username 4: cdedrickwisc      Collin Dedrick
-       * GitHub username 5: _**Insert Joyce's Username Here**_    Joyce Fang
+       * GitHub username 5: yfang57           You-Ren(Joyce) Fang
    * When did you complete this exercise? Monday 2/26/2018
    * How long did it take your team to complete this exercise?  1 Hour
 
